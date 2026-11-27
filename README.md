@@ -7,7 +7,7 @@
   <title>Pundlik Savliram Jadhav</title>
 </head>
 <body>
-  <h1>Hello World</h1>
-  <h2>Hello Web</h2>
+  <h1>Website disining page</h1>
+  <h2>Website disining page</h2>
 </body>
 </html>
